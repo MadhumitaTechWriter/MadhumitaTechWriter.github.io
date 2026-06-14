@@ -2,7 +2,7 @@
 
 **Technical-Writing-Portfolio**
 
-**About Me**
+**About Me**\
 Hello and welcome to my Technical Writing Portfolio! My name is Madhumita, and I am an aspiring technical writer, passionate about making complex topics easy to understand. With a background in software development and management, I specialize in creating explicit, concise, and informative technical content.
 
 **Overview**
