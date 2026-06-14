@@ -8,16 +8,16 @@ Hello and welcome to my Technical Writing Portfolio! My name is Madhumita, and I
 **Overview**  
 This repository serves as a collection of my technical writing samples. Here, you'll find user guides, and technical articles showcasing my ability to break down complex information into reader-friendly content.
 
-**My Approach**
+**My Approach**  
 My hope is to write to make technical stories clear and relatable. As the tech world is ever-evolving, my approach revolves around constantly learning, adapting, and refining to best serve my clients.
 
-**Portfolio Contents**
+**Portfolio Contents**  
 Articles: In-depth pieces focused on explaining technical topics.
 User Guides: Step-by-step guides aimed at helping end-users accomplish specific tasks.
 Technical Summaries: Brief documents outlining the specifications and features of various products.
 Case Studies: Detailed analyses of real-world applications of specific technologies or methods.
 
-**Skills Demonstrated**
+**Skills Demonstrated**  
 Technical Research
 User-focused Writing
 Markdown language
@@ -26,7 +26,7 @@ Code Snippets and Examples
 End-User Documentation
 Document Design and Layout
 
-**Contact Me**
+**Contact Me**  
 If you're interested in my work and would like to get in touch, you can reach me at:
 
 Email: madhumita.techwriter@gmail.com
