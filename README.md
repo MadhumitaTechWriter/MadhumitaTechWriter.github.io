@@ -26,7 +26,7 @@ My hope is to write to make technical stories clear and relatable. As the tech w
 * Document Design and Layout
 
 **Writing Samples**  
-https://github.com/MadhumitaTechWriter/MadhumitaTechWriter.github.io/tree/main/user-guides
+[Rally Quick Start Guide](https://github.com/MadhumitaTechWriter/MadhumitaTechWriter.github.io/tree/main/user-guides)
 
 
 **Contact Me**  
