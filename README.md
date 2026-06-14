@@ -29,7 +29,7 @@ Document Design and Layout
 **Contact Me**  
 If you're interested in my work and would like to get in touch, you can reach me at:
 
-Email: madhumita.techwriter@gmail.com
+Email: madhumita.techwriter@gmail.com  
 LinkedIn: www.linkedin.com/in/madhumita-ghosh-78aa631
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
