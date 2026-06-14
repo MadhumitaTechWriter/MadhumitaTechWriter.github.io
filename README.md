@@ -32,8 +32,8 @@ My hope is to write to make technical stories clear and relatable. As the tech w
 **Contact Me**  
 If you're interested in my work and would like to get in touch, you can reach me at:  
 
-[Resume](https://github.com/MadhumitaTechWriter/MadhumitaTechWriter.github.io/tree/main/Resume)  
-Email: madhumita.techwriter@gmail.com  
-[LinkedIn](www.linkedin.com/in/madhumita-ghosh-78aa631)  
+* [Resume](https://github.com/MadhumitaTechWriter/MadhumitaTechWriter.github.io/tree/main/Resume)  
+* [LinkedIn](www.linkedin.com/in/madhumita-ghosh-78aa631)  
+* madhumita.techwriter@gmail.com 
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
