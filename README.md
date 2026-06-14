@@ -18,13 +18,13 @@ My hope is to write to make technical stories clear and relatable. As the tech w
 * Case Studies: Detailed analyses of real-world applications of specific technologies or methods.  
 
 **Skills Demonstrated**  
-  Technical Research
-  User-focused Writing
-  Markdown language
-  Version control systems
-  Code Snippets and Examples
-  End-User Documentation
-  Document Design and Layout
+* Technical Research
+* User-focused Writing
+* Markdown language
+* Version control systems
+* Code Snippets and Examples
+* End-User Documentation
+* Document Design and Layout
 
 **Contact Me**  
 If you're interested in my work and would like to get in touch, you can reach me at:
