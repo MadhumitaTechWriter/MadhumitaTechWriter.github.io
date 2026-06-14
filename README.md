@@ -14,8 +14,7 @@ My hope is to write to make technical stories clear and relatable. As the tech w
 **Portfolio Contents**  
 * Articles: In-depth pieces focused on explaining technical topics.  
 * User Guides: Step-by-step guides aimed at helping end-users accomplish specific tasks.  
-* Technical Summaries: Brief documents outlining the specifications and features of various products.  
-* Case Studies: Detailed analyses of real-world applications of specific technologies or methods.  
+* Technical Summaries: Brief documents outlining the specifications and features of various products.   
 
 **Skills Demonstrated**  
 * Technical Research
