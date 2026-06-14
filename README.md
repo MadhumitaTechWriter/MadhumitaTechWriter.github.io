@@ -25,6 +25,10 @@ My hope is to write to make technical stories clear and relatable. As the tech w
 * End-User Documentation
 * Document Design and Layout
 
+**Writing Samples**  
+https://github.com/MadhumitaTechWriter/MadhumitaTechWriter.github.io/tree/main/user-guides
+
+
 **Contact Me**  
 If you're interested in my work and would like to get in touch, you can reach me at:
 
