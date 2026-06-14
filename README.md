@@ -34,6 +34,6 @@ If you're interested in my work and would like to get in touch, you can reach me
 
 [Resume](https://github.com/MadhumitaTechWriter/MadhumitaTechWriter.github.io/tree/main/Resume)  
 Email: madhumita.techwriter@gmail.com  
-[LinkedIn](www.linkedin.com/in/madhumita-ghosh-78aa631)
+[LinkedIn](www.linkedin.com/in/madhumita-ghosh-78aa631)  
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
